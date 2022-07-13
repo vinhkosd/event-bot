@@ -4,6 +4,9 @@
 /sounds/**
 !/sounds/putmusichere.mp3
 
+*.zip
+*.rar
+
 # Logs
 logs
 *.log
